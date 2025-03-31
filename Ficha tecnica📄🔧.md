@@ -30,19 +30,19 @@
 
 **Operación (Tiempo días x horas)**: [Detalles sobre operación]
 
----
+
 
 ## 2. Funcionalidades Principales
 
 **Funcionalidad 1** - [Descripción]
 
----
+
 
 ## 3. Tecnologías Utilizadas
 
 **Frameworks, SQL y bibliotecas**: [Ej. Django, React, etc.]
 
----
+
 
 ## 4. Mantenimiento y Actualizaciones
 
@@ -61,7 +61,7 @@
 
 **Proceso para reportar errores**: [Cómo reportar errores]
 
----
+
 
 ## 5. Seguridad
 
@@ -76,7 +76,7 @@
 
 **Gestión de vulnerabilidades**: [Cómo se manejan las vulnerabilidades]
 
----
+
 
 ## 6. Soporte y Contacto
 
@@ -85,7 +85,7 @@
 -  **Documentación adicional**: [Enlaces a manuales o recursos adicionales]
     
 
----
+
 
 ## 7. Conexiones y Protocolos
 
